@@ -7,4 +7,14 @@
 
 .topping--selected {
   background-color: greenyellow;
+  transform: scale(1.1);  
+}
+body {
+  background-color: #f0f0f0;  
+}
+
+
+header, #toppings-container {
+  text-align: center;
+  width: 100%;
 }
